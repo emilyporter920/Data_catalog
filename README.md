@@ -1,4 +1,4 @@
-# Data Catalog (GVR_PROD)
+# Data Cataloging (GVR_PROD & IS360)
 
 ## Purpose
 * The creation of this GVR_PROD catalog will help with consolidating information into one place about each table & will aid in data mapping - as you can just copy and paste information from here into the data mapping document.
@@ -46,13 +46,14 @@
 * You will **NOT** need to continuously run this code and will instead need this code to run and generate a new catalog table when there are updates inside of the GVR_PROD database
 
 # Future Updates: 
-* Comments
-    * On database, schema, table, and column levels
 * Config Code
 * LBO
 * PII or not PII
     * Personally identifiable information
 * Dictionary Name (Business Name)
+* Table Types
+    * Type 1 or Type 2
+* Incremental or Full Load
 
 # Questions?
 

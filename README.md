@@ -54,6 +54,7 @@
 * Table Types
     * Type 1 or Type 2
 * Incremental or Full Load
+* Last load date
 
 # Questions?
 

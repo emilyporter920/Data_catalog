@@ -43,8 +43,6 @@
 
 * Create two slicers by selecting **"Database"** and **"Schema"**
 
-* You will **NOT** need to continuously run this code and will instead need this code to run and generate a new catalog table when there are updates inside of the GVR_PROD database
-
 # Future Updates: 
 * Config Code
 * LBO

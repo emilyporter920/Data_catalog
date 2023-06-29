@@ -6,7 +6,6 @@
 
 ## Run Code
 * Clone GitHub repository and run the code inside of the 'Data_Catalog_Script.ipynb' file
-* Change email address located inside of the creds.json file to an appropriate email address
 * While running the code, please do not have the Data_Catalog.xlsx open while running the script
 * This should produce an output inside of the Catalog/Data_Catalog.xlsx that looks like this:
 

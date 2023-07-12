@@ -1,6 +1,8 @@
 # Data Cataloging (GVR_PROD & IS360)
 
-## Purpose
+# Will Update README when completed
+
+<!-- ## Purpose
 * The creation of this GVR_PROD catalog will help with consolidating information into one place about each table & will aid in data mapping - as you can just copy and paste information from here into the data mapping document.
 
 
@@ -52,7 +54,7 @@
     * Type 1 or Type 2
 * Incremental or Full Load
 * Last Load Date
-* PowerBI Integration
+* PowerBI Integration -->
 
 # Questions?
 
